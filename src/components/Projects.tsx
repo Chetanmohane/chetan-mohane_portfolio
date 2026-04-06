@@ -27,7 +27,7 @@ const projects: Project[] = [
     tags: ['Next.js', 'React', 'Tailwind CSS', 'Node.js'],
     category: 'Full Stack',
     emoji: '🍱',
-    live: 'https://tiffin-project-v1.vercel.app/',
+    live: 'https://tiffin-annapurna-delight.vercel.app/',
   },
   {
     title: 'DG News Portal',
@@ -35,7 +35,7 @@ const projects: Project[] = [
     tags: ['Next.js', 'React', 'Tailwind CSS', 'Node.js'],
     category: 'Frontend',
     emoji: '📰',
-    live: 'https://dgnews-project.vercel.app/',
+    live: 'https://dg-news-project.vercel.app/',
   },
   {
     title: 'School Website',
@@ -43,7 +43,7 @@ const projects: Project[] = [
     tags: ['Next.js', 'React', 'JavaScript', 'CSS'],
     category: 'Frontend',
     emoji: '🎓',
-    live: 'https://schoolwebsite-nine-kappa.vercel.app/',
+    live: 'https://schoolwebsite-lovat.vercel.app/',
   },
   {
     title: 'Live Cricket Platform',
